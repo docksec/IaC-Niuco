@@ -1,0 +1,3 @@
+env/staging/.terraform/
+env/staging/.terraform.lock.hcl
+env/staging/terraform.tfstate
